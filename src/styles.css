@@ -1,0 +1,48 @@
+body {
+    background-color: gray;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: white;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+    display: inline-block;
+    text-align: left;
+}
+
+#para2 {
+    padding: 50px;
+    border: 2px solid;
+    margin-bottom: 40px;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: cadetblue;
+    color: whitesmoke;
+    border: 2px solid black;
+}
+
+button:hover {
+    background-color: solid black;
+}
+
+button:active {
+    transform:translateY(2px);
+}
